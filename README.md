@@ -12,4 +12,4 @@ A simple React component that displays a greeting message inside a styled UI box
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/shrwn08/horizon.git
+   git clone https://github.com/shrwn08/horizon_broadband.git
